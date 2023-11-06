@@ -1,2 +1,2 @@
 # k10-tutorial
-Files, scripts, and configurations for the How To Backup and Restore Kubernetes Clusters tutorial
+Scripts and YAML files for the tutorial **How To Backup and Restore Kubernetes Clusters**
